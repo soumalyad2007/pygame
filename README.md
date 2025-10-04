@@ -1,0 +1,1 @@
+Before writing the code you have to download and install pygame from cmd . The storage location will be based on the place where you saved the python file. After that just write the code and enjoy ;)..
